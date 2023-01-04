@@ -7,7 +7,7 @@ int(float('10.50'))
 s.islower()
 # __________
 
-#a = 5
+#a =  
 #while a>=5:
     #print ('salam') //.... iterable many times
 
